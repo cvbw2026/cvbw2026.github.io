@@ -17,7 +17,7 @@ speakers:
     alt: "Patrick Lucey"
     caption: "Patrick Lucey, Stats Perform"
   - url: https://nmbl.stanford.edu/people/scott-uhlrich/
-    image_path: /assets/speakers/scott.jpg
+    image_path: https://cvbw2026.github.io/assets/speakers/scott.jpg
     alt: "Scott Ulbrich"
     caption: "Scott Ulbrich, Stanford"
 

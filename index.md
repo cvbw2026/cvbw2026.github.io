@@ -5,15 +5,15 @@ comments: false
 permalink: /
 speakers:
   - url: https://www.sralab.org/researchers/r-james-cotton-md-phd
-    image_path: /assets/speakers/james.jpg
+    image_path: https://cvbw2026.github.io/assets/speakers/james.jpg
     alt: "R. James Cotton"
     caption: "R. James Cotton, Northwestern University"
   - url: https://scholar.google.com/citations?user=T9gE8P0AAAAJ&hl=en
-    image_path: /assets/speakers/marilyn.png
+    image_path: https://cvbw2026.github.io/assets/speakers/marilyn.png
     alt: "Marilyn Keller"
     caption: "Marilyn Keller, ETH Zurich"
   - url: https://www.patricklucey.com/
-    image_path: /assets/speakers/patrick.jpg
+    image_path: https://cvbw2026.github.io/assets/speakers/patrick.jpg
     alt: "Patrick Lucey"
     caption: "Patrick Lucey, Stats Perform"
   - url: https://nmbl.stanford.edu/people/scott-uhlrich/
@@ -23,47 +23,47 @@ speakers:
 
 organizers:
   - url: https://scholar.google.com.au/citations?user=DFdwDKkAAAAJ&hl=en&oi=ao
-    image_path: /assets/org/ethan.jpg
+    image_path: https://cvbw2026.github.io/assets/org/ethan.jpg
     alt: "Ethan Goan"
     caption: "Ethan Goan, QUT"
   - url: https://scholar.google.com.au/citations?user=anHgASIAAAAJ&hl=en&oi=ao
-    image_path: /assets/org/akila.png
+    image_path: https://cvbw2026.github.io/assets/org/akila.png
     alt: "Akila Hewa Thondilege"
     caption: "Akila Hewa Thondilege, QUT"
   - url: https://scholar.google.com/citations?user=T9gE8P0AAAAJ&hl=en
-    image_path: /assets/org/marilyn.png
+    image_path: https://cvbw2026.github.io/assets/org/marilyn.png
     alt: "Marilyn Keller"
     caption: "Marilyn Keller, ETH Zurich"
   - url: https://ndfcampbell.org/
-    image_path: /assets/org/neil.jpg
+    image_path: https://cvbw2026.github.io/assets/org/neil.jpg
     alt: "Neil D. Campbell"
     caption: "Neil D. Campbell, University College London"
   - url: https://david-pagnon.com/fr/en-deux-mots/
-    image_path: /assets/org/davidpagnon.jpg
+    image_path: https://cvbw2026.github.io/assets/org/davidpagnon.jpg
     alt: "David Pagnon"
     caption: "David Pagnon, University of Bath"
   - url: https://researchportal.bath.ac.uk/en/persons/dario-cazzola/
-    image_path: /assets/org/dario.jpg
+    image_path: https://cvbw2026.github.io/assets/org/dario.jpg
     alt: "Dario Cazzola"
     caption: "Dario Cazzola, University of Bath"
   - url: https://people.csiro.au/a/d/david-ahmedtaristizabal
-    image_path: /assets/org/dahmedt.jpg
+    image_path: https://cvbw2026.github.io/assets/org/dahmedt.jpg
     alt: "David Ahmedt"
     caption: "David Ahmedt, CSIRO"
   - url: https://people.csiro.au/H/S/Simon-Harrison/
-    image_path: /assets/org/simonharrison.jpg
+    image_path: https://cvbw2026.github.io/assets/org/simonharrison.jpg
     alt: "Simon Harrison"
     caption: "Simon Harrison, CSIRO"
   - url: https://experts.griffith.edu.au/21209-luke-kelly
-    image_path: /assets/org/lukekelly.jpg
+    image_path: https://cvbw2026.github.io/assets/org/lukekelly.jpg
     alt: "Luke Kelly"
     caption: "Luke Kelly, Griffith University"
   - url: https://www.qut.edu.au/about/our-people/academic-profiles/c.fookes
-    image_path: /assets/org/clint.png
+    image_path: https://cvbw2026.github.io/assets/org/clint.png
     alt: "Clinton Fookes"
     caption: "Clinton Fookes, QUT"
   - url: https://www.qut.edu.au/about/our-people/academic-profiles/glen.lichtwark
-    image_path: /assets/org/glen.jpg
+    image_path: https://cvbw2026.github.io/assets/org/glen.jpg
     alt: "Glen Lichtwark"
     caption: "Glen Lichtwark, QUT"
 

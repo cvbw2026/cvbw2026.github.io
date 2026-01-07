@@ -18,8 +18,8 @@ speakers:
     caption: "Patrick Lucey, Stats Perform"
   - url: https://nmbl.stanford.edu/people/scott-uhlrich/
     image_path: https://cvbw2026.github.io/assets/speakers/scott.jpg
-    alt: "Scott Ulbrich"
-    caption: "Scott Ulbrich, Stanford"
+    alt: "Scott Uhlrich"
+    caption: "Scott Uhlrich, University of Utah"
 
 organizers:
   - url: https://scholar.google.com.au/citations?user=DFdwDKkAAAAJ&hl=en&oi=ao

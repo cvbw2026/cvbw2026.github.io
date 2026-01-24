@@ -154,7 +154,7 @@ Human movement analysis is entering a new era driven by advances in computer vis
 <div id='important'></div>
 ## Important Dates
 
-- January 23 - [Submission Opens](#call_for_papers)
+- January 23 - [Submission Opens](https://openreview.net/group?id=thecvf.com/CVPR/2026/Workshop/CVBW#tab-recent-activity)
 - March 15 - Submission Deadline
 - April 7 - Notification
 - April 11 - Camera Ready
@@ -163,6 +163,8 @@ Human movement analysis is entering a new era driven by advances in computer vis
 
 <div id='call_for_papers'></div>
 ## Call for Papers
+
+Submission Link can be found [here](https://openreview.net/group?id=thecvf.com/CVPR/2026/Workshop/CVBW#tab-recent-activity).
 
 This workshop will be accepting short papers (4 pages excluding references and appendix). Topics of interest for this workshop include, but are not limited to,
 
@@ -179,11 +181,13 @@ This workshop will be accepting short papers (4 pages excluding references and a
 - Deploying vision-based biomechanics in low-resource settings and on consumer grade devices
 
 
-Researchers interested in contributing should upload a short paper of up to 4 pages (not counting references and appendices) by **March 15, 2026, 23:59 AoE**. The link for submission will be made available on the January 15, 2026. References and supplementary material can exceed 4 pages.  Please upload a single PDF that includes the main paper and any supplementary material. Submissions that exceed 4 pages or submissions with significant formatting violations will be rejected.
+Researchers interested in contributing should upload a short paper of up to 4 pages (not counting references and appendices) by **March 15, 2026, 23:59 AoE**. The link for submission is available [through OpenReview here](https://openreview.net/group?id=thecvf.com/CVPR/2026/Workshop/CVBW#tab-recent-activity). References and supplementary material can exceed 4 pages.  Please upload a single PDF that includes the main paper and any supplementary material. Submissions that exceed 4 pages or submissions with significant formatting violations will be rejected.
 
 Authors should use the same CVPR LaTeX style provided on the main website [here](https://github.com/cvpr-org/author-kit/archive/refs/tags/CVPR2026-v1(latex).zip). (If clicking on the link does not work, please copy the link and paste in your browser tab). Submissions don't need to be anonymized. The workshop allows submissions of papers that are under review or have been recently published in a conference or a journal. Authors should state any overlapping published work at the time of submission. The workshop will not have any official proceedings, so it is non-archival.
 
 All submissions will be reviewed and will be evaluated on the basis of their technical content. Accepted papers will be selected for either a short oral presentation and/or poster presentation.
+
+Following CVPR review guidelines, authors of papers may be recruited as reviewers for this workshop.
 
 If you have any questions or difficulty submitting your paper, contact us at [cvbw2026@gmail.com](cvbw2026@gmail.com).
 

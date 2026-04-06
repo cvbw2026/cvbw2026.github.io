@@ -154,11 +154,11 @@ Human movement analysis is entering a new era driven by advances in computer vis
 <div id='important'></div>
 ## Important Dates
 
-- January 23 - [Submission Opens](https://openreview.net/group?id=thecvf.com/CVPR/2026/Workshop/CVBW#tab-recent-activity)
-- March 15 - Submission Deadline
-- April 7 - Notification
-- April 11 - Camera Ready
-- June 3-4 - Workshop
+- ~~January 23~~ - [Submission Opens](https://openreview.net/group?id=thecvf.com/CVPR/2026/Workshop/CVBW#tab-recent-activity)
+- ~~March 15~~ - Submission Deadline
+- ~~April 7~~ April 10 - Notification
+- ~~April 11~~ April 22 - Camera Ready
+- June 3/4 - Workshop
 
 
 <div id='call_for_papers'></div>

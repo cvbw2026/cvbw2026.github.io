@@ -22,7 +22,7 @@ speakers:
     caption: "Scott Uhlrich, University of Utah"
 
 organizers:
-  - url: https://scholar.google.com.au/citations?user=DFdwDKkAAAAJ&hl=en&oi=ao
+  - url: https://www.ethangoan.com
     image_path: https://cvbw2026.github.io/assets/org/ethan.jpg
     alt: "Ethan Goan"
     caption: "Ethan Goan, QUT"
@@ -156,9 +156,19 @@ Human movement analysis is entering a new era driven by advances in computer vis
 
 - ~~January 23~~ - [Submission Opens](https://openreview.net/group?id=thecvf.com/CVPR/2026/Workshop/CVBW#tab-recent-activity)
 - ~~March 15~~ - Submission Deadline
-- ~~April 7~~ April 10 - Notification
-- ~~April 11~~ April 22 - Camera Ready
-- June 3/4 - Workshop
+- ~~April 10~~ - Notification
+- ~~April 22~~ - Camera Ready
+- **June 3, 1pm-6pm, Room 112** - Workshop
+
+
+<div id='invited'></div>
+## Invited Speakers
+{% include gallery id="speakers" class="full" layout="half" %}
+
+<div id='program'></div>
+## Program
+
+TBC
 
 
 <div id='call_for_papers'></div>
@@ -191,16 +201,6 @@ Following CVPR review guidelines, authors of papers may be recruited as reviewer
 
 If you have any questions or difficulty submitting your paper, contact us at [cvbw2026@gmail.com](cvbw2026@gmail.com).
 
-
-
-<div id='invited'></div>
-## Invited Speakers
-{% include gallery id="speakers" class="full" layout="half" %}
-
-<div id='program'></div>
-## Program
-
-TBC
 
 <div id='organising'></div>
 ## Organising Team

@@ -60,4 +60,4 @@ plugins:
 #   - vendor/ruby/
 
 # making sure jekyll sees everything in the _pages directory
-include: ["_pages"]
+include: ["_pages", "_papers"]

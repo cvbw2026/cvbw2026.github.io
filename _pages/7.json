@@ -1,0 +1,37 @@
+{
+  "id": "vmAvSJ61zG",
+  "number": 7,
+  "forum": "vmAvSJ61zG",
+  "title": "Fall Risk and Gait Analysis in Community-Dwelling Older Adults using World-Spaced 3D Human Mesh Recovery",
+  "abstract": "Gait assessment is a key clinical indicator of fall risk and overall health in older adults. However, standard clinical practice is largely limited to stopwatch-measured gait speed. We present a pipeline that leverages a 3D Human Mesh Recovery (HMR) model to extract gait parameters from recordings of older adults completing the Timed Up and Go (TUG) test. From videos recorded across different community centers, we extract and analyze spatiotemporal gait parameters, including step time, sit-to-stand duration, and step length. We found that video-derived step time was significantly correlated with IMU-based insole measurements. Using linear mixed effects models, we confirmed that shorter, more variable step lengths and longer sit-to-stand durations were predicted by higher self-rated fall risk and fear of falling. These findings demonstrate that our pipeline can enable accessible and ecologically valid gait analysis in community settings.",
+  "authors": [
+    "Chitra Banarjee",
+    "Patrick Kwon",
+    "Ania L. Lipat",
+    "Rui Xie",
+    "Chen Chen",
+    "Ladda Thiamwong"
+  ],
+  "authorids": [
+    "~Chitra_Banarjee1",
+    "~Patrick_Kwon2",
+    "~Ania_L._Lipat1",
+    "~Rui_Xie4",
+    "~Chen_Chen18",
+    "~Ladda_Thiamwong1"
+  ],
+  "keywords": [
+    "GVHMR",
+    "falls",
+    "gait"
+  ],
+  "venue": "CVBW Poster",
+  "venueid": "thecvf.com/CVPR/2026/Workshop/CVBW",
+  "pdf_url": "/pdf/5e9147b8d3df02df5538432bbdeb5b813fe3193f.pdf",
+  "TLDR": "GVHMR provides a feasible, video\u2011based method for extracting gait metrics that show moderate agreement with wearables and meaningful associations with fall\u2011risk factors, offering a promising foundation for accessible mobility assessment.",
+  "serve_as_reviewer": "~Patrick_Kwon2",
+  "_bibtex": "@inproceedings{\nanonymous2026fall,\ntitle={Fall Risk and Gait Analysis in Community-Dwelling Older Adults using World-Spaced 3D Human Mesh Recovery},\nauthor={Anonymous},\nbooktitle={First Computer Vision for Biomechanics Workshop},\nyear={2026},\nurl={https://openreview.net/forum?id=vmAvSJ61zG}\n}",
+  "paperhash": "banarjee|fall_risk_and_gait_analysis_in_communitydwelling_older_adults_using_worldspaced_3d_human_mesh_recovery",
+  "local_pdf": "data/pdfs/7_Fall_Risk_and_Gait_Analysis_in_Community-Dwelling_Older_Adults_using_World-Spaced_3D_Human_Mesh_Recovery.pdf",
+  "decision": "Accept (Poster)"
+}

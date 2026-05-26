@@ -201,7 +201,7 @@ Robustness of markerless biomechanical analysis using pose2sim: a sensitivity st
 
 Towards Equitable Biomechanics: Rethinking Vision-Based Biomechanics for Resource-Limited Settings with Resourceful Design Strategies — Rune Chi Zhao, Xiuyuan Yuan
 
-[[abs]]({{site.baseurl}}/_pages/16.html) [[paper]]({{site.baseurl}}/assets/papers/16.pdf)
+[[abs]]({{site.baseurl}}/_pages/16.html) [[paper]]({{site.baseurl}}/assets/papers/16.pdf)  [[poster]]({{site.baseurl}}/assets/posters/16.pdf)
 
 
 Does Lower MPJPE Mean Better Biomechanics? Evaluating Joint Angle Fidelity of State-of-the-Art 3D Pose Estimation Models — Jason Wang, Stephen Baek, Natalie Kupperman

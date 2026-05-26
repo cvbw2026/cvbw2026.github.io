@@ -239,61 +239,6 @@ Validity of Monocular Human Mesh Reconstruction for Estimating Lower-Extremity J
 [[abs]]({{site.baseurl}}/_pages/14.html) [[paper]]({{site.baseurl}}/assets/papers/14.pdf)
 
 
-Fall Risk and Gait Analysis in Community-Dwelling Older Adults using World-Spaced 3D Human Mesh Recovery — Chitra Banarjee, Patrick Kwon, Ania L. Lipat, Rui Xie, Chen Chen, Ladda Thiamwong
-
-[abs]({{site.baseurl}}/_pages/7.html) [paper]({{site.baseurl}}/assets/papers/7.pdf)
-
-
-WebBioAuth: Privacy-Preserving Multimodal Biometric Authentication in the Browser — Garthigan Kumarasamy, Uthayasanker Thayasivam
-
-[abs]({{site.baseurl}}/_pages/8.html) [paper]({{site.baseurl}}/assets/papers/8.pdf)
-
-
-Robustness of markerless biomechanical analysis using pose2sim: a sensitivity study on transmission and privacy constraints for cloud-based computation — Hardy Corentin, Erwan Fertray, Guillo Laurent, Charles Pontonnier, Pierre Hellier
-
-[abs]({{site.baseurl}}/_pages/4.html) [paper]({{site.baseurl}}/assets/papers/4.pdf)
-
-
-Towards Equitable Biomechanics: Rethinking Vision-Based Biomechanics for Resource-Limited Settings with Resourceful Design Strategies — Rune Chi Zhao, Xiuyuan Yuan
-
-[abs]({{site.baseurl}}/_pages/16.html) [paper]({{site.baseurl}}/assets/papers/16.pdf) [poster]({{site.baseurl}}/assets/posters/16.pdf)
-
-
-Does Lower MPJPE Mean Better Biomechanics? Evaluating Joint Angle Fidelity of State-of-the-Art 3D Pose Estimation Models — Jason Wang, Stephen Baek, Natalie Kupperman
-
-[abs]({{site.baseurl}}/_pages/12.html) [paper]({{site.baseurl}}/assets/papers/12.pdf)
-
-
-GHOST: Gaussian splatting for Human Osteoarticular Structure Tracking from Video — Guillaume Le Guludec, Hardy Corentin, Laurent Albera, Charles Pontonnier, Pierre Hellier
-
-[abs]({{site.baseurl}}/_pages/5.html) [paper]({{site.baseurl}}/assets/papers/5.pdf)
-
-
-Large-Scale 3D Pose Estimation of Professional Tennis Serves from Broadcast Video — Jason Wang, Stephen Baek, Robert Chen, Patrick Ho, Emmy Kim, Samuel Min, Jaden Shim, Vrishak Vemuri, Derek Wang, Natalie Kupperman
-
-[abs]({{site.baseurl}}/_pages/11.html) [paper]({{site.baseurl}}/assets/papers/11.pdf)
-
-
-MuscleMimic: Unlocking full-body musculoskeletal motor learning at scale — Chengkun Li, Cheryl Wang, Bianca Ziliotto, Merkourios Simos, Guillaume Durandau, Alexander Mathis
-
-[abs]({{site.baseurl}}/_pages/10.html) [paper]({{site.baseurl}}/assets/papers/10.pdf)
-
-
-OpenCap Monocular: 3D Human Kinematics and Musculoskeletal Dynamics from a Single Smartphone Video — Selim Gilon, Scott D Uhlrich
-
-[abs]({{site.baseurl}}/_pages/15.html) [paper]({{site.baseurl}}/assets/papers/15.pdf)
-
-
-An Observer-Egocentric Approach to Real-World Gait Analysis — Alexis Cantaloube, Julien Favre
-
-[abs]({{site.baseurl}}/_pages/3.html) [paper]({{site.baseurl}}/assets/papers/3.pdf)
-
-
-Validity of Monocular Human Mesh Reconstruction for Estimating Lower-Extremity Joint Kinematics: A Comparison of SAM3D and CameraHMR — Ahmadreza Souri, Siddhartha Sikdar, Tiphanie E Raffegeau
-
-[abs]({{site.baseurl}}/_pages/14.html) [paper]({{site.baseurl}}/assets/papers/14.pdf)
-
-
 <div id='call_for_papers'></div>
 ## Call for Papers
 

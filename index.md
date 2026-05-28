@@ -203,7 +203,7 @@ Towards Equitable Biomechanics: Rethinking Vision-Based Biomechanics for Resourc
 
 [[abs]]({{site.baseurl}}/_pages/16.html) [[paper]]({{site.baseurl}}/assets/papers/16.pdf)  [[poster]]({{site.baseurl}}/assets/posters/16.pdf)
 
- 
+
 Does Lower MPJPE Mean Better Biomechanics? Evaluating Joint Angle Fidelity of State-of-the-Art 3D Pose Estimation Models — Jason Wang, Stephen Baek, Natalie Kupperman
 
 [[abs]]({{site.baseurl}}/_pages/12.html) [[paper]]({{site.baseurl}}/assets/papers/12.pdf)
@@ -224,7 +224,7 @@ MuscleMimic: Unlocking full-body musculoskeletal motor learning at scale — Che
 [[abs]]({{site.baseurl}}/_pages/10.html) [[paper]]({{site.baseurl}}/assets/papers/10.pdf)
 
 
-OpenCap Monocular: 3D Human Kinematics and Musculoskeletal Dynamics from a Single Smartphone Video — Selim Gilon, Scott D Uhlrich
+OpenCap Monocular: 3D Human Kinematics and Musculoskeletal Dynamics from a Single Smartphone Video — Selim Gilon, Emily Y.  Miller, Scott D Uhlrich
 
 [[abs]]({{site.baseurl}}/_pages/15.html) [[paper]]({{site.baseurl}}/assets/papers/15.pdf)
 

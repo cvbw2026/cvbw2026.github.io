@@ -176,8 +176,7 @@ Human movement analysis is entering a new era driven by advances in computer vis
 | 15:00 | Poster Session + Coffee Break                                                         |
 | 16:15 | R. James Cotton - Assistant Professor Northwestern University                         |
 | 17:00 | Marilyn Keller - ETH Zurich                                                           |
-| 17:50 | Akila Hewa Thondilege - Queensland University of Technology  (Closing Remarks)        |
-
+| 17:50 | Clinton Fookes and Akila Hewa Thondilege - BiomotionAI                                |
 
 
 <div id='accepted_papers'></div>

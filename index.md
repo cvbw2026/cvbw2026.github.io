@@ -11,7 +11,7 @@ speakers:
   - url: https://scholar.google.com/citations?user=T9gE8P0AAAAJ&hl=en
     image_path: https://cvbw2026.github.io/assets/speakers/marilyn.png
     alt: "Marilyn Keller"
-    caption: "Marilyn Keller, ETH Zurich"
+    caption: "Marilyn Keller, Max Planck Institute for Intelligent Systems"
   - url: https://www.patricklucey.com/
     image_path: https://cvbw2026.github.io/assets/speakers/patrick.jpg
     alt: "Patrick Lucey"
@@ -150,7 +150,6 @@ header:
 Human movement analysis is entering a new era driven by advances in computer vision and machine learning. Accurate estimation of body pose, shape, motion, forces, and joint dynamics is crucial for translating visual data into meaningful biomechanical insights. Yet, challenges such as data variability, limited annotations, and domain generalization persist. This workshop explores emerging intersection of computer vision and biomechanics, bringing together researchers and practitioners to discuss new methods, datasets, and applications that bridge perception and physical understanding enabling precise, data-driven insights and extending the impact of vision-based biomechanics across diverse domains such as rehabilitation, sports performance, and injury prevention.
 
 
-
 <div id='important'></div>
 ## Important Dates
 
@@ -173,9 +172,9 @@ Human movement analysis is entering a new era driven by advances in computer vis
 | 13:00 | Ethan Goan -  Queensland University of Technology (Opening Remarks)                   |
 | 13:15 | Scott Ulrich - Director of Research  Human Performance Laboratory, University of Utah |
 | 14:00 | Patrick Lucey - Chief Scientist - Stats Perform                                       |
-| 15:00 | Poster Session + Coffee Break                                                         |
+| 15:00 | Poster Session + Coffee Break - (Poster Boards 120-125)                               |
 | 16:15 | R. James Cotton - Assistant Professor Northwestern University                         |
-| 17:00 | Marilyn Keller - ETH Zurich                                                           |
+| 17:00 | Marilyn Keller - Max Planck Institute for Intelligent Systems                         |
 | 17:50 | Clinton Fookes and Akila Hewa Thondilege - BiomotionAI                                |
 
 

@@ -11,7 +11,7 @@ speakers:
   - url: https://scholar.google.com/citations?user=T9gE8P0AAAAJ&hl=en
     image_path: https://cvbw2026.github.io/assets/speakers/marilyn.png
     alt: "Marilyn Keller"
-    caption: "Marilyn Keller, Max Planck Institute for Intelligent Systems"
+    caption: "Marilyn Keller, ETH Zurich"
   - url: https://www.patricklucey.com/
     image_path: https://cvbw2026.github.io/assets/speakers/patrick.jpg
     alt: "Patrick Lucey"
@@ -174,7 +174,7 @@ Human movement analysis is entering a new era driven by advances in computer vis
 | 14:00 | Patrick Lucey - Chief Scientist - Stats Perform                                       |
 | 15:00 | Poster Session + Coffee Break - (Poster Boards 120-125)                               |
 | 16:15 | R. James Cotton - Assistant Professor Northwestern University                         |
-| 17:00 | Marilyn Keller - Max Planck Institute for Intelligent Systems                         |
+| 17:00 | Marilyn Keller - ETH Zurich                                                           |
 | 17:50 | Clinton Fookes and Akila Hewa Thondilege - BiomotionAI                                |
 
 
